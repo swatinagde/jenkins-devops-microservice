@@ -24,7 +24,7 @@ pipeline {
 		success{
 			echo("Success success");
 		}
-		fail{
+		failure{
 			echo("Fail fail");
 		}
 	}
